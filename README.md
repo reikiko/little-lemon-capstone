@@ -1,12 +1,12 @@
-<h1 align="center"> Little Lemon  </h1>
+<h1> Little Lemon  </h1>
 
-<p align="center">
+<p>
 The little lemon app is the capstone project for Meta's Front-End Developer Certificate on Coursera. <br/>
 </p>
 
 <h2 id="technologies">🚀 Technologies</h2>
 
-This project was developed with the following technologies:
+<p>This project was developed with the following technologies:</p>
 
 - React JS
 - Typescript
@@ -17,4 +17,3 @@ This project was developed with the following technologies:
 - React Testing Library
 - Git and Github
 - Figma
-
